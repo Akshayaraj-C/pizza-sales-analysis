@@ -1,4 +1,4 @@
- Pizza Sales Analytics Pipeline ⭐
+ Pizza Sales Analytics Pipeline 
 SQL (PostgreSQL) + Power BI | 5K+ Orders | 19 KPIs
 
  Key Results
